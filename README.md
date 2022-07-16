@@ -4,9 +4,11 @@
 
 <b>UAS Kecerdasan Buatan  <b> <br>
 
-Nama : Gevano Randhi Pilko <br>
+Nama : Eltyes Michael Efata Zebua
+
+<br>
 
 NIM : 19011402671<br>
 
-Prodi : Teknik Informatika <br>
+Kelas : 06 TPLE 007 <br>
 
